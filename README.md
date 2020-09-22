@@ -1,4 +1,4 @@
-# Extensions Examples
+# Extension Examples
 
 ## Initial Code
 ```swift
